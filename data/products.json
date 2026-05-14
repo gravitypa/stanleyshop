@@ -1,5 +1,148 @@
 [
  {
+   "ID": 141,
+   "ASIN": "",
+   "DESCRIPCION": "",
+   "TIPO": "",
+   "USO": "",
+   "TAMANO": null,
+   "COLOR": "",
+   "PRECIO VENTA": 0,
+   "ESTADO": 0
+ },
+ {
+   "ID": 140,
+   "ASIN": "B0GCC3TCX6",
+   "DESCRIPCION": "Adventure-To-Go",
+   "TIPO": "Adventure-To-Go",
+   "USO": "Cafe",
+   "TAMANO": 35,
+   "COLOR": "Verde",
+   "PRECIO VENTA": 36,
+   "ESTADO": 1
+ },
+ {
+   "ID": 139,
+   "ASIN": "B07NDY8P62",
+   "DESCRIPCION": "Classic Food Jar",
+   "TIPO": "Food Jar",
+   "USO": "Comida",
+   "TAMANO": 18,
+   "COLOR": "Gris",
+   "PRECIO VENTA": 30,
+   "ESTADO": 1
+ },
+ {
+   "ID": 138,
+   "ASIN": "B0DVKPHFZQ",
+   "DESCRIPCION": "Classic Legendary",
+   "TIPO": "Classic Legendary",
+   "USO": "Cafe",
+   "TAMANO": 48,
+   "COLOR": "Verde",
+   "PRECIO VENTA": 48,
+   "ESTADO": 1
+ },
+ {
+   "ID": 137,
+   "ASIN": "B0DT1PHNSQ",
+   "DESCRIPCION": "IceFlow 2.0",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "TAMANO": 40,
+   "COLOR": "Rosado",
+   "PRECIO VENTA": 44,
+   "ESTADO": 1
+ },
+ {
+   "ID": 136,
+   "ASIN": "",
+   "DESCRIPCION": "",
+   "TIPO": "",
+   "USO": "",
+   "TAMANO": null,
+   "COLOR": "",
+   "PRECIO VENTA": 0,
+   "ESTADO": 0
+ },
+ {
+   "ID": 135,
+   "ASIN": "B0GC91WNK4",
+   "DESCRIPCION": "Beer Stain",
+   "TIPO": "Beer Stein",
+   "USO": "Cerveza",
+   "TAMANO": 24,
+   "COLOR": "Blanco",
+   "PRECIO VENTA": 30,
+   "ESTADO": 1
+ },
+ {
+   "ID": 134,
+   "ASIN": "B0DR9Q42SF",
+   "DESCRIPCION": "Quencher H2.0",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "TAMANO": 40,
+   "COLOR": "Celeste",
+   "PRECIO VENTA": 46,
+   "ESTADO": 1
+ },
+ {
+   "ID": 133,
+   "ASIN": "B0CJZZNS72",
+   "DESCRIPCION": "Quencher H2.0",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "TAMANO": 40,
+   "COLOR": "Morado",
+   "PRECIO VENTA": 46,
+   "ESTADO": 1
+ },
+ {
+   "ID": 132,
+   "ASIN": "",
+   "DESCRIPCION": "",
+   "TIPO": "",
+   "USO": "",
+   "TAMANO": null,
+   "COLOR": "",
+   "PRECIO VENTA": 0,
+   "ESTADO": 0
+ },
+ {
+   "ID": 131,
+   "ASIN": "B0CV63GHR2",
+   "DESCRIPCION": "Classic Legendary",
+   "TIPO": "Classic Legendary",
+   "USO": "Cafe",
+   "TAMANO": 32,
+   "COLOR": "Rosado",
+   "PRECIO VENTA": 40,
+   "ESTADO": 1
+ },
+ {
+   "ID": 130,
+   "ASIN": "B0DT1MFKRT",
+   "DESCRIPCION": "IceFlow 2.0",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "TAMANO": 40,
+   "COLOR": "Blanco",
+   "PRECIO VENTA": 44,
+   "ESTADO": 1
+ },
+ {
+   "ID": 129,
+   "ASIN": "B0D2YG91F2",
+   "DESCRIPCION": "Quencher H2.0",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "TAMANO": 30,
+   "COLOR": "Rosado",
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
+ },
+ {
    "ID": 128,
    "ASIN": "B0DT28GFF2",
    "DESCRIPCION": "IceFlow 2.0",
@@ -29,7 +172,7 @@
    "USO": "Agua",
    "TAMANO": 30,
    "COLOR": "Verde",
-   "PRECIO VENTA": 38,
+   "PRECIO VENTA": 36,
    "ESTADO": 1
  },
  {
@@ -73,7 +216,7 @@
    "USO": "Agua",
    "TAMANO": 30,
    "COLOR": "Rosado",
-   "PRECIO VENTA": 38,
+   "PRECIO VENTA": 36,
    "ESTADO": 1
  },
  {
@@ -139,7 +282,7 @@
    "USO": "Agua",
    "TAMANO": 30,
    "COLOR": "Verde",
-   "PRECIO VENTA": 38,
+   "PRECIO VENTA": 36,
    "ESTADO": 1
  },
  {
@@ -249,7 +392,7 @@
    "USO": "Agua",
    "TAMANO": 30,
    "COLOR": "Rosado",
-   "PRECIO VENTA": 46,
+   "PRECIO VENTA": 44,
    "ESTADO": 1
  },
  {
@@ -337,8 +480,8 @@
    "USO": "Agua",
    "TAMANO": 30,
    "COLOR": "Celeste",
-   "PRECIO VENTA": 48,
-   "ESTADO": 1
+   "PRECIO VENTA": 0,
+   "ESTADO": 0
  },
  {
    "ID": 97,
@@ -458,7 +601,7 @@
    "USO": "Agua",
    "TAMANO": 64,
    "COLOR": "Rosado",
-   "PRECIO VENTA": 40,
+   "PRECIO VENTA": 38,
    "ESTADO": 1
  },
  {
@@ -480,8 +623,8 @@
    "USO": "Agua",
    "TAMANO": 40,
    "COLOR": "Menta",
-   "PRECIO VENTA": 0,
-   "ESTADO": 0
+   "PRECIO VENTA": 44,
+   "ESTADO": 1
  },
  {
    "ID": 84,
@@ -491,7 +634,7 @@
    "USO": "Agua",
    "TAMANO": 20,
    "COLOR": "Rojo",
-   "PRECIO VENTA": 32,
+   "PRECIO VENTA": 30,
    "ESTADO": 1
  },
  {
@@ -579,8 +722,8 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Anaranjado",
-   "PRECIO VENTA": 36,
-   "ESTADO": 1
+   "PRECIO VENTA": 54,
+   "ESTADO": 0
  },
  {
    "ID": 75,
@@ -601,7 +744,7 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Celeste",
-   "PRECIO VENTA": 38,
+   "PRECIO VENTA": 36,
    "ESTADO": 1
  },
  {
@@ -612,7 +755,7 @@
    "USO": "Agua",
    "TAMANO": 50,
    "COLOR": "Negro",
-   "PRECIO VENTA": 54,
+   "PRECIO VENTA": 52,
    "ESTADO": 0
  },
  {
@@ -722,8 +865,8 @@
    "USO": "Agua",
    "TAMANO": 40,
    "COLOR": "Verde",
-   "PRECIO VENTA": 50,
-   "ESTADO": 1
+   "PRECIO VENTA": 0,
+   "ESTADO": 0
  },
  {
    "ID": 62,
@@ -733,8 +876,8 @@
    "USO": "Agua",
    "TAMANO": 30,
    "COLOR": "Rosado",
-   "PRECIO VENTA": 0,
-   "ESTADO": 0
+   "PRECIO VENTA": 36,
+   "ESTADO": 1
  },
  {
    "ID": 61,
@@ -810,8 +953,8 @@
    "USO": "Agua/Cafe",
    "TAMANO": 16,
    "COLOR": "Rosado",
-   "PRECIO VENTA": 30,
-   "ESTADO": 1
+   "PRECIO VENTA": 0,
+   "ESTADO": 0
  },
  {
    "ID": 54,
@@ -832,7 +975,7 @@
    "USO": "Agua/Cafe",
    "TAMANO": 20,
    "COLOR": "Crema",
-   "PRECIO VENTA": 36,
+   "PRECIO VENTA": 34,
    "ESTADO": 1
  },
  {
@@ -843,7 +986,7 @@
    "USO": "Agua",
    "TAMANO": 50,
    "COLOR": "Lila",
-   "PRECIO VENTA": 52,
+   "PRECIO VENTA": 54,
    "ESTADO": 0
  },
  {
@@ -854,8 +997,8 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Lila",
-   "PRECIO VENTA": 50,
-   "ESTADO": 1
+   "PRECIO VENTA": 52,
+   "ESTADO": 0
  },
  {
    "ID": 50,
@@ -898,7 +1041,7 @@
    "USO": "Cafe",
    "TAMANO": 35.2,
    "COLOR": "Verde",
-   "PRECIO VENTA": 34,
+   "PRECIO VENTA": 32,
    "ESTADO": 1
  },
  {
@@ -920,8 +1063,8 @@
    "USO": "Agua",
    "TAMANO": 40,
    "COLOR": "Gris",
-   "PRECIO VENTA": 0,
-   "ESTADO": 0
+   "PRECIO VENTA": 44,
+   "ESTADO": 1
  },
  {
    "ID": 44,
@@ -1019,7 +1162,7 @@
    "USO": "Agua",
    "TAMANO": 50,
    "COLOR": "Rosado",
-   "PRECIO VENTA": 44,
+   "PRECIO VENTA": 46,
    "ESTADO": 1
  },
  {
@@ -1063,7 +1206,7 @@
    "USO": "Agua",
    "TAMANO": 40,
    "COLOR": "Rosado",
-   "PRECIO VENTA": 42,
+   "PRECIO VENTA": 44,
    "ESTADO": 1
  },
  {
@@ -1074,8 +1217,8 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Rosado",
-   "PRECIO VENTA": 50,
-   "ESTADO": 1
+   "PRECIO VENTA": 56,
+   "ESTADO": 0
  },
  {
    "ID": 30,
@@ -1085,7 +1228,7 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Negro",
-   "PRECIO VENTA": 48,
+   "PRECIO VENTA": 44,
    "ESTADO": 1
  },
  {
@@ -1151,7 +1294,7 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Azul",
-   "PRECIO VENTA": 42,
+   "PRECIO VENTA": 48,
    "ESTADO": 1
  },
  {
@@ -1162,17 +1305,17 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Blanco",
-   "PRECIO VENTA": 36,
-   "ESTADO": 1
+   "PRECIO VENTA": 0,
+   "ESTADO": 0
  },
  {
    "ID": 22,
    "ASIN": "B0GCC3RSH3",
-   "DESCRIPCION": "Cafe To Go Travel Mug",
-   "TIPO": "Cafe To Go",
+   "DESCRIPCION": "Caf� To Go Travel Mug",
+   "TIPO": "Caf� To Go",
    "USO": "Cafe",
    "TAMANO": 20,
-   "COLOR": "Chocolate",
+   "COLOR": "Chocalate",
    "PRECIO VENTA": 32,
    "ESTADO": 1
  },
@@ -1206,8 +1349,8 @@
    "USO": "Agua/Cafe",
    "TAMANO": 44.8,
    "COLOR": "Rojo",
-   "PRECIO VENTA": 42,
-   "ESTADO": 1
+   "PRECIO VENTA": 0,
+   "ESTADO": 0
  },
  {
    "ID": 18,
@@ -1272,7 +1415,7 @@
    "USO": "Agua",
    "TAMANO": 16,
    "COLOR": "Verde",
-   "PRECIO VENTA": 38,
+   "PRECIO VENTA": 32,
    "ESTADO": 1
  },
  {
@@ -1283,7 +1426,7 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Amarillo",
-   "PRECIO VENTA": 42,
+   "PRECIO VENTA": 40,
    "ESTADO": 1
  },
  {
@@ -1294,8 +1437,8 @@
    "USO": "Agua/Cafe",
    "TAMANO": 20,
    "COLOR": "Celeste",
-   "PRECIO VENTA": 0,
-   "ESTADO": 0
+   "PRECIO VENTA": 40,
+   "ESTADO": 1
  },
  {
    "ID": 10,
@@ -1360,8 +1503,8 @@
    "USO": "Agua/Cafe",
    "TAMANO": 20,
    "COLOR": "Azul",
-   "PRECIO VENTA": 32,
-   "ESTADO": 1
+   "PRECIO VENTA": 0,
+   "ESTADO": 0
  },
  {
    "ID": 4,
@@ -1382,8 +1525,8 @@
    "USO": "Agua",
    "TAMANO": 16,
    "COLOR": "Azul",
-   "PRECIO VENTA": 30,
-   "ESTADO": 1
+   "PRECIO VENTA": 0,
+   "ESTADO": 0
  },
  {
    "ID": 2,
