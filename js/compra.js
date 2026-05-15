@@ -109,12 +109,6 @@ function renderProductoDetalle(producto) {
 
                                         <div class="row">
                                             <div class="col-md-12 p-2">
-                                                <label for="email" class="form-label">Correo electrónico</label>
-                                                <input type="email" class="form-control" id="email"
-                                                    placeholder="Correo electronico" required>
-                                            </div>
-
-                                            <div class="col-md-12 p-2">
                                                 <label for="nombre" class="form-label">Nombre completo</label>
                                                 <input type="text" class="form-control" id="nombre"
                                                     placeholder="Nombre completo" required>
