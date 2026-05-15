@@ -84,7 +84,7 @@
    "USO": "Agua",
    "TAMANO": 40,
    "COLOR": "Celeste",
-   "PRECIO VENTA": 46,
+   "PRECIO VENTA": 38,
    "ESTADO": 1
  },
  {
@@ -95,8 +95,8 @@
    "USO": "Agua",
    "TAMANO": 40,
    "COLOR": "Morado",
-   "PRECIO VENTA": 46,
-   "ESTADO": 1
+   "PRECIO VENTA": 0,
+   "ESTADO": 0
  },
  {
    "ID": 132,
@@ -865,8 +865,8 @@
    "USO": "Agua",
    "TAMANO": 40,
    "COLOR": "Verde",
-   "PRECIO VENTA": 0,
-   "ESTADO": 0
+   "PRECIO VENTA": 50,
+   "ESTADO": 1
  },
  {
    "ID": 62,
@@ -876,7 +876,7 @@
    "USO": "Agua",
    "TAMANO": 30,
    "COLOR": "Rosado",
-   "PRECIO VENTA": 36,
+   "PRECIO VENTA": 44,
    "ESTADO": 1
  },
  {
@@ -986,7 +986,7 @@
    "USO": "Agua",
    "TAMANO": 50,
    "COLOR": "Lila",
-   "PRECIO VENTA": 54,
+   "PRECIO VENTA": 52,
    "ESTADO": 0
  },
  {
@@ -997,8 +997,8 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Lila",
-   "PRECIO VENTA": 52,
-   "ESTADO": 0
+   "PRECIO VENTA": 46,
+   "ESTADO": 1
  },
  {
    "ID": 50,
@@ -1041,7 +1041,7 @@
    "USO": "Cafe",
    "TAMANO": 35.2,
    "COLOR": "Verde",
-   "PRECIO VENTA": 32,
+   "PRECIO VENTA": 34,
    "ESTADO": 1
  },
  {
@@ -1162,7 +1162,7 @@
    "USO": "Agua",
    "TAMANO": 50,
    "COLOR": "Rosado",
-   "PRECIO VENTA": 46,
+   "PRECIO VENTA": 42,
    "ESTADO": 1
  },
  {
@@ -1239,8 +1239,8 @@
    "USO": "Agua",
    "TAMANO": 20,
    "COLOR": "Blanco",
-   "PRECIO VENTA": 38,
-   "ESTADO": 1
+   "PRECIO VENTA": 0,
+   "ESTADO": 0
  },
  {
    "ID": 28,
@@ -1426,7 +1426,7 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Amarillo",
-   "PRECIO VENTA": 40,
+   "PRECIO VENTA": 42,
    "ESTADO": 1
  },
  {
