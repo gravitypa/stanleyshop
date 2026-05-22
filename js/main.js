@@ -213,10 +213,7 @@ function renderProductos(productos) {
                                     <div class="product-price mb-4">
                                         <span class="current-price">$${producto["PRECIO VENTA"]}</span>
                                     </div>
-
-                                    <button class="btn btn-primary w-100 btn-space-catalog" style="font-size: 0.9rem; padding: 0.5rem 1rem;">
-                                        <i class="bi bi-cart-plus me-2"></i>SELECCIONAR
-                                    </button>
+                                    
                                 </div>
 
                             </div>
