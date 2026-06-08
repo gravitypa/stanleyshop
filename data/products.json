@@ -18,8 +18,8 @@
    "USO": "Comida",
    "TAMANO": 18,
    "COLOR": "Gris",
-   "PRECIO VENTA": 0,
-   "ESTADO": 0
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
  },
  {
    "ID": 138,
@@ -128,8 +128,8 @@
    "USO": "Agua",
    "TAMANO": 30,
    "COLOR": "Verde",
-   "PRECIO VENTA": 36,
-   "ESTADO": 1
+   "PRECIO VENTA": 0,
+   "ESTADO": 0
  },
  {
    "ID": 125,
@@ -572,17 +572,6 @@
    "ESTADO": 1
  },
  {
-   "ID": 81,
-   "ASIN": "B0DJCHCM5C",
-   "DESCRIPCION": "Barbie� �80s Rockers",
-   "TIPO": "Quencher",
-   "USO": "Agua",
-   "TAMANO": 40,
-   "COLOR": "80s Rockers",
-   "PRECIO VENTA": 0,
-   "ESTADO": 0
- },
- {
    "ID": 80,
    "ASIN": "B0CWLQTG8P",
    "DESCRIPCION": "IceFlow Fast Flow",
@@ -601,7 +590,7 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Azul",
-   "PRECIO VENTA": 40,
+   "PRECIO VENTA": 42,
    "ESTADO": 1
  },
  {
@@ -634,7 +623,7 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Anaranjado",
-   "PRECIO VENTA": 46,
+   "PRECIO VENTA": 42,
    "ESTADO": 1
  },
  {
@@ -656,7 +645,7 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Celeste",
-   "PRECIO VENTA": 36,
+   "PRECIO VENTA": 40,
    "ESTADO": 1
  },
  {
@@ -667,73 +656,7 @@
    "USO": "Agua",
    "TAMANO": 50,
    "COLOR": "Negro",
-   "PRECIO VENTA": 54,
-   "ESTADO": 0
- },
- {
-   "ID": 72,
-   "ASIN": "B0DJCHWPP8",
-   "DESCRIPCION": "Barbie 80s Dynamite",
-   "TIPO": "Quencher",
-   "USO": "Agua",
-   "TAMANO": 40,
-   "COLOR": "80s Dynamite",
-   "PRECIO VENTA": 0,
-   "ESTADO": 0
- },
- {
-   "ID": 71,
-   "ASIN": "B0DJCGQ8RL",
-   "DESCRIPCION": "Barbie 60s Twist  N Turn",
-   "TIPO": "Quencher",
-   "USO": "Agua",
-   "TAMANO": 40,
-   "COLOR": "60s Twist 'N Turn",
-   "PRECIO VENTA": 0,
-   "ESTADO": 0
- },
- {
-   "ID": 70,
-   "ASIN": "B0DJCJ6R5Y",
-   "DESCRIPCION": "Barbie 70s Superstar",
-   "TIPO": "Quencher",
-   "USO": "Agua",
-   "TAMANO": 40,
-   "COLOR": "70s Superstar",
-   "PRECIO VENTA": 0,
-   "ESTADO": 0
- },
- {
-   "ID": 69,
-   "ASIN": "B0DJCK6PPR",
-   "DESCRIPCION": "Barbie 1959 Original",
-   "TIPO": "Quencher",
-   "USO": "Agua",
-   "TAMANO": 40,
-   "COLOR": "1959 Original",
-   "PRECIO VENTA": 0,
-   "ESTADO": 0
- },
- {
-   "ID": 68,
-   "ASIN": "B0DJCJ11HS",
-   "DESCRIPCION": "Barbie Icon",
-   "TIPO": "Quencher",
-   "USO": "Agua",
-   "TAMANO": 40,
-   "COLOR": "Barbie Icon",
-   "PRECIO VENTA": 0,
-   "ESTADO": 0
- },
- {
-   "ID": 67,
-   "ASIN": "B0DJCGLLJQ",
-   "DESCRIPCION": "Barbie 80s Western Ken",
-   "TIPO": "Quencher",
-   "USO": "Agua",
-   "TAMANO": 40,
-   "COLOR": "80s Western Ken",
-   "PRECIO VENTA": 0,
+   "PRECIO VENTA": 52,
    "ESTADO": 0
  },
  {
@@ -755,8 +678,8 @@
    "USO": "Agua",
    "TAMANO": 40,
    "COLOR": "Verde",
-   "PRECIO VENTA": 0,
-   "ESTADO": 0
+   "PRECIO VENTA": 48,
+   "ESTADO": 1
  },
  {
    "ID": 62,
@@ -788,8 +711,8 @@
    "USO": "Agua",
    "TAMANO": 34,
    "COLOR": "Amarillo",
-   "PRECIO VENTA": 0,
-   "ESTADO": 0
+   "PRECIO VENTA": 34,
+   "ESTADO": 1
  },
  {
    "ID": 59,
@@ -865,7 +788,7 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Lila",
-   "PRECIO VENTA": 48,
+   "PRECIO VENTA": 38,
    "ESTADO": 1
  },
  {
@@ -909,8 +832,8 @@
    "USO": "Cafe",
    "TAMANO": 35.2,
    "COLOR": "Verde",
-   "PRECIO VENTA": 0,
-   "ESTADO": 0
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
  },
  {
    "ID": 46,
@@ -920,8 +843,8 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Verde",
-   "PRECIO VENTA": 0,
-   "ESTADO": 0
+   "PRECIO VENTA": 40,
+   "ESTADO": 1
  },
  {
    "ID": 45,
@@ -931,7 +854,7 @@
    "USO": "Agua",
    "TAMANO": 40,
    "COLOR": "Gris",
-   "PRECIO VENTA": 44,
+   "PRECIO VENTA": 40,
    "ESTADO": 1
  },
  {
@@ -1030,7 +953,7 @@
    "USO": "Agua",
    "TAMANO": 50,
    "COLOR": "Rosado",
-   "PRECIO VENTA": 46,
+   "PRECIO VENTA": 48,
    "ESTADO": 1
  },
  {
@@ -1085,8 +1008,8 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Rosado",
-   "PRECIO VENTA": 52,
-   "ESTADO": 0
+   "PRECIO VENTA": 48,
+   "ESTADO": 1
  },
  {
    "ID": 30,
@@ -1151,7 +1074,7 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Blanco",
-   "PRECIO VENTA": 44,
+   "PRECIO VENTA": 48,
    "ESTADO": 1
  },
  {
@@ -1173,7 +1096,7 @@
    "USO": "Agua/Cafe",
    "TAMANO": 44.8,
    "COLOR": "Rojo",
-   "PRECIO VENTA": 42,
+   "PRECIO VENTA": 44,
    "ESTADO": 1
  },
  {
